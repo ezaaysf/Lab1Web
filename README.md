@@ -5,7 +5,7 @@ Universitas Pelita Bangsa
 
 # Tugas HTML dasar
 Tugas Pemrograman Web 1 <br>
-Pertemuan 1 Semester 3
+Pertemuan 2 Semester 3
 
 # 1. Membuat Paragraf
 <img src="1.membuat paragraf.png" img>
